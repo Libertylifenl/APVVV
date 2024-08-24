@@ -27,22 +27,22 @@ Dank voor je medewerking en veel plezier in onze stad!
         <tr>
             <td>Liberty Life</td>
             <td>Main discord server van Liberty Life</td>
-            <td><a href="https://www.discord.gg/libertylife"  target="_blank" rel="noopener">Invite</a></td>
+            <td><a href="https://discord.gg/libertylife-rp"  target="_blank" rel="noopener">Invite</a></td>
         </tr>
         <tr>
             <td>Liberty Life Support</td> 
             <td>Support discord server van Liberty Life	</td>
-            <td><a href="https://discord.gg/RbG7EUb4jE"  target="_blank" rel="noopener">Invite</a></td>
+            <td><a href="https://discord.com/invite/libertylife-support"  target="_blank" rel="noopener">Invite</a></td>
         </tr>
         <tr>
             <td>Liberty Life Overheid</td>
             <td>Overheidsinstanties discord server van Liberty Life</td>
-            <td><a href="https://discord.gg/"  target="_blank" rel="noopener">Invite</a></td>
+            <td><a href="https://discord.gg/libertylife-rp"  target="_blank" rel="noopener">Invite</a></td>
         </tr>
         <tr>
             <td>Liberty Life Overheid</td>
             <td>Makelaar discord server van Liberty Life</td>
-            <td><a href="https://discord.gg/"  target="_blank" rel="noopener">Invite</a></td>
+            <td><a href="https://discord.gg/libertylife-rp"  target="_blank" rel="noopener">Invite</a></td>
         </tr>
 </table>
 
