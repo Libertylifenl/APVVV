@@ -59,9 +59,11 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/libertylife
+      link: https://www.youtube.com/@LibertyLifeRP-mp5ew
     - icon: fontawesome/brands/discord
-      link: discord.gg/libertylife
+      link: https://discord.gg/libertylife-rp
+    - icon: fontawesome/brands/tiktok
+      link: https://www.tiktok.com/@libertylifenl
   analytics:
     provider: google
     property: G-TMEEKBJVZ0
