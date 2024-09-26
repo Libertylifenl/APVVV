@@ -33,6 +33,35 @@
 ## Extra Informatie
 <b>Liberty Life</b> behoudt zich het recht voor om op elk moment zijn/haar regels te wijzigen, nieuwe regels toe te voegen of bestaande regels in te trekken.
 
+
+### Specifieke Regels:
+1. Geen Spam: Overmatig spammen van nutteloze berichten is niet toegestaan.
+2. Gebruik /report voor meldingen: Verbeter de RP-ervaring door regelovertredingen te rapporteren.
+3. Geen verstorend gedrag: Mic spammen, trollen, enz. zijn niet toegestaan.
+4. Beperkt schelden: Gebruik van ernstige scheldwoorden is streng verboden.
+5. Realistisch blijven: Onrealistische situaties vermijden, zoals racen met exotische auto's door de woestijn.
+6. Verplicht een microfoon: Communiceren en roleplayen vereist een werkende microfoon.
+7. Nederlands spreken: De voertaal is Nederlands.
+8. Alleen contant geld stelen: Bankgeld kan niet gestolen worden.
+9. Als je in dienst bent bij een overheidsinstantie, maar niet aan het werk bent dan zien we dit als moneyfarmen. (Accountwipe)
+10. Geheugenverlies na respawn: Na respawn weet je niet hoe je bent gestorven.
+11. Donatie voertuigen uit de shop mogen **niet** door verkocht worden. (Accountwipe) 
+12. Geen Spam: Overmatig spammen van nutteloze berichten is niet toegestaan.
+13. Agenten die niet in-game zijn, mogen niet deelnemen aan overvallen.
+14. Buiten-game communicatie is verboden, behalve voor overheidsdiensten in specifieke kanalen.
+15. Gebruik Twitter voor in-character berichten.
+16. Geen adverteren: Eigen servers of Discord adverteren is niet toegestaan.
+17. Geen uitwisseling op alt-accounts: Uitwisselen van geld of materiaal op alternatieve accounts is verboden.
+18. Geen voertuigen van jobs voor criminaliteit: Bijvoorbeeld geen vuilniswagen gebruiken voor criminele activiteiten.
+19. Na moord door rivaliserende bende, 24 uur geen deelname aan wraakacties of roleplay.
+20. Niet ontsnappen aan AFK-kick.
+21. Verboden ambulanciers of ANWB-medewerkers te doden of ontvoeren tijdens oproepen.
+22. Zero tolerance bij overheidsdiensten: Geen betrokkenheid bij drugs of criminele activiteiten. Verkoop of weggeven van overheidsvoorwerpen is verboden.
+23. Als een band ontploft en je alleen nog de velg over hebt, is het niet toegestaan om door te rijden.
+24. Het is verboden om iemand te dwingen zijn stashplekken te openen en vervolgens zijn eigendommen te stelen. (Exclusief auto's)
+25. Wanneer je in een achtervolging zit, is het niet toegestaan om opzettelijk het water in te rijden.
+26. Wanneer je betrokken bent bij een achtervolging, is het niet toegestaan om over te stappen naar een donatievoertuig.
+
 ## Algemene Bepalingen
 
 
@@ -376,7 +405,7 @@ Het niet meewerken wordt beschouwd als het niet waarderen van je eigen leven, om
 </table>
 
 ## Artikel 18 - Random Death Match (RDM)
-1. Het zonder enige geldige reden random doden van spelers.
+1. Het zonder enige geldige reden random doden/slaan van spelers.
 2. Het doden van iemand omdat die persoon niet wil deelnemen aan een mondelinge activiteit.
 3. Wanneer een van de bovenstaande regels wordt overtreden, zal het gebruikte wapen automatisch worden in beslag genomen.
 <table border="1">
@@ -410,7 +439,7 @@ Het niet meewerken wordt beschouwd als het niet waarderen van je eigen leven, om
 </table>
 
 ## Artikel 20 - FailRP
-Onder FailRP wordt verstaan: Het opzettelijk verpesten of slecht uitvoeren van, niet meewerken aan een scenario.
+FailRPhoudt in: het bewust verstoren of niet realistisch meddoen aan een scenario, of het weigeren om op een passende manier mee te werken aan een situatie.
 
 <b>Paar voorbeelden hiervan zijn:</b>
 
@@ -420,7 +449,7 @@ Onder FailRP wordt verstaan: Het opzettelijk verpesten of slecht uitvoeren van, 
 - Het stelen van een voertuig of inhoud zonder enige aanleiding.
 - Praten terwijl je dood bent.
 - Het is niet toegestaan om je voor te doen als een overheidsmedewerker met of zonder de bijbehorende kleding.
-- Het slecht uitvoeren van een scenario.
+- Het slecht uitvoeren van een scenario of het leveren van roleplay van lage kwaliteit.
 - Het gebruik van elektronische communicatiemiddelen in het water is niet toegestaan.
 - Het niet meewerken na een behandeling door ambulancepersoneel.
 - Een blokkade mag alleen worden uitgevoerd als er geen inzittenden in het voertuig zitten.
@@ -441,7 +470,6 @@ Onder FailRP wordt verstaan: Het opzettelijk verpesten of slecht uitvoeren van, 
 - Het wegzetten van je voertuig tijdens een achtervolging om te voorkomen dat je voertuig in beslag wordt genomen.
 - Na een crash waarbij jouw auto over de kop is gevlogen en/of de crash harder ging dan 80km/u terwijl je in achtervolging bent, ben je in principe uitgeschakeld en wordt er van je verwacht dat je een Roleplay uitvoert waarin je gewond bent.
 - Doorrijden, doorschieten, vluchten, rennen of zwemmen na een zware crash zoals hierboven beschreven.
-- Nadat je in je benen bent geschoten, binnen 3 minuten een voertuig besturen om een achtervolging aan te gaan met als doel communicatie door te geven.
 - Ongewenst gedrag, zoals willekeurig op mensen inslaan zonder enige vorm van roleplay.
 - Het is niet toegestaan om je voor te doen als een overheidsmedewerker, met of zonder bijbehorende kleding.
 <table border="1">
@@ -491,6 +519,7 @@ Tot slot is het ook niet toegestaan om tijdens een scenario een report te maken 
 1. Alleen het verlagen van je stem is toegestaan, niet het verhogen ervan.
 2. Het is toegestaan om een voice-changer te gebruiken voor criminele activiteiten en bij bijkomende taken van de politie.
 3. Iedereen ingame moet een werkende microfoon hebben.
+4. Je bent verplicht met oortjes of een headset te spelen.
 
 <table border="1">
     <thead>
@@ -527,11 +556,11 @@ Tot slot is het ook niet toegestaan om tijdens een scenario een report te maken 
 </table>
 
 ## Artikel 26 - Karakter breken
-Het is te allen tijde verboden om uit je rol te vallen. Dit betekent dat je geen enkele term mag gebruiken die als OOC (out of character) wordt beschouwd. Dit omvat ook termen zoals "report", "admin", "ticket" en vergelijkbare woorden.
+1. Het is te allen tijde verboden om uit je rol te vallen. Dit betekent dat je geen enkele term mag gebruiken die als OOC (out of character) wordt beschouwd. Dit omvat ook termen zoals "report", "admin", "ticket" en vergelijkbare woorden.
 
-Het is tevens verboden om te vermelden dat iemand een artikel van de Algemene Plaatselijke Verordening (APV) heeft overtreden. Indien iemand een artikel van de APV heeft overtreden, volg dan de juiste procedures, zoals het aanmaken van een report of een ticket.
+2. Het is tevens verboden om te vermelden dat iemand een artikel van de Algemene Plaatselijke Verordening (APV) heeft overtreden. Indien iemand een artikel van de APV heeft overtreden, volg dan de juiste procedures, zoals het aanmaken van een report of een ticket.
 
-Het verbod zoals beschreven in lid 1 & 2 is niet van toepassing op de staffleden wanneer zij een gesprek voeren in het kader van hun taken als stafflid. Deze uitzondering geldt ook voor de personen met wie zij in gesprek zijn.
+3. Het verbod zoals beschreven in lid 1 & 2 is niet van toepassing op de staffleden wanneer zij een gesprek voeren in het kader van hun taken als stafflid. Deze uitzondering geldt ook voor de personen met wie zij in gesprek zijn.
 
 <table border="1">
     <thead>
@@ -543,7 +572,7 @@ Het verbod zoals beschreven in lid 1 & 2 is niet van toepassing op de staffleden
 </table>
 
 ## Artikel 27 - IRL Traiding
-Het is ten strengste verboden om in-game items, geld, voertuigen, of wapens te verhandelen voor echt geld of andere zaken buiten de game, zelfs als dit plaatsvindt buiten de spelomgeving of in een andere stad.
+1. Het is ten strengste verboden om in-game items, geld, voertuigen, of wapens te verhandelen voor echt geld of andere zaken buiten de game, zelfs als dit plaatsvindt buiten de spelomgeving of in een andere stad.
 
 <table border="1">
     <thead>
@@ -553,6 +582,24 @@ Het is ten strengste verboden om in-game items, geld, voertuigen, of wapens te v
         </tr>
     </thead>
 </table>
+
+## Artikel 28 - GTA Drivestyle
+
+1. Personen dienen realistisch rijgedrag te vertonen. Het is niet toegestaan om met raceauto's met 100 km/u door de woestijn te rijden of om te rijden in de stijl van GTA.
+
+2. Off-road rijden is enkel toegestaan voor voertuigen die hiervoor geschikt zijn; alle andere voertuigen vallen onder de categorie GTA-rijstijl.
+
+3. De maximale snelheid tijdens het uitvoeren van een pitmanoeuvre is 100 km/u, behalve voor specialistische overheidsdiensten. Zij mogen dit doen met een maximumsnelheid van 150 km/u. De onderwereld mag dit met maximaal 100 km/u.
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>Straf:</th>
+            <th><b>Categorie 1: Een waarschuwing + 25 uur taakstraf</b></bCategorie></th>
+        </tr>
+    </thead>
+</table>
+
 
 ### Specifieke Regels:
 1. Geen Spam: Overmatig spammen van nutteloze berichten is niet toegestaan.
