@@ -603,31 +603,3 @@ Tot slot is het ook niet toegestaan om tijdens een scenario een report te maken 
 </table>
 
 
-### Specifieke Regels:
-1. Geen Spam: Overmatig spammen van nutteloze berichten is niet toegestaan.
-2. Gebruik /report voor meldingen: Verbeter de RP-ervaring door regelovertredingen te rapporteren.
-3. Geen verstorend gedrag: Mic spammen, trollen, enz. zijn niet toegestaan.
-4. Beperkt schelden: Gebruik van ernstige scheldwoorden is streng verboden.
-5. Realistisch blijven: Onrealistische situaties vermijden, zoals racen met exotische auto's door de woestijn.
-6. Verplicht een microfoon: Communiceren en roleplayen vereist een werkende microfoon.
-7. Nederlands spreken: De voertaal is Nederlands.
-8. Alleen contant geld stelen: Bankgeld kan niet gestolen worden.
-9. Als je in dienst bent bij een overheidsinstantie, maar niet aan het werk bent dan zien we dit als moneyfarmen. (Accountwipe)
-10. Geheugenverlies na respawn: Na respawn weet je niet hoe je bent gestorven.
-11. Donatie voertuigen uit de shop mogen **niet** door verkocht worden. (Accountwipe) 
-12. Geen Spam: Overmatig spammen van nutteloze berichten is niet toegestaan.
-13. Agenten die niet in-game zijn, mogen niet deelnemen aan overvallen.
-14. Buiten-game communicatie is verboden, behalve voor overheidsdiensten in specifieke kanalen.
-15. Gebruik Twitter voor in-character berichten.
-16. Geen adverteren: Eigen servers of Discord adverteren is niet toegestaan.
-17. Geen uitwisseling op alt-accounts: Uitwisselen van geld of materiaal op alternatieve accounts is verboden.
-18. Geen voertuigen van jobs voor criminaliteit: Bijvoorbeeld geen vuilniswagen gebruiken voor criminele activiteiten.
-19. Na moord door rivaliserende bende, 24 uur geen deelname aan wraakacties of roleplay.
-20. Niet ontsnappen aan AFK-kick.
-21. Verboden ambulanciers of ANWB-medewerkers te doden of ontvoeren tijdens oproepen.
-22. Zero tolerance bij overheidsdiensten: Geen betrokkenheid bij drugs of criminele activiteiten. Verkoop of weggeven van overheidsvoorwerpen is verboden.
-23. Als een band ontploft en je alleen nog de velg over hebt, is het niet toegestaan om door te rijden.
-24. Het is verboden om iemand te dwingen zijn stashplekken te openen en vervolgens zijn eigendommen te stelen. (Exclusief auto's)
-25. Wanneer je in een achtervolging zit, is het niet toegestaan om opzettelijk het water in te rijden.
-26. Wanneer je betrokken bent bij een achtervolging, is het niet toegestaan om over te stappen naar een donatievoertuig.
-
