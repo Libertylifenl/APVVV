@@ -138,14 +138,12 @@
     </thead>
 </table>
 
-## Artikel 2 - Hacks & Metagaming
+## Artikel 2 - Hacks & Exploits
 
 1. Hij/zij die gebruikmaakt van software/hulpmiddelen (cheats) van derde partijen om oneerlijk voordeel te behalen in het spel.
     - Deze regel is ook van toepassing op de Discord-client zelf, wat betekent dat het gebruik van clients zoals BetterDiscord, Vencord niet is toegestaan.
-2. Hij/zij die opzettelijk een bug en/of exploit misbruikt om voor zichzelf of anderen voordeel te behalen, of in-game functionaliteiten omzeilt, ongeacht de middelen, zal onmiddellijk worden gestraft volgens de 9e categorie.                                                             
-3. Het is niet toegestaan om externe Discords te gebruiken voor roleplay-gerelateerde zaken zonder voorafgaande toestemming van het personeel, inclusief het gebruik van sheets en andere onderlinge zaken. Overtreding van deze regel zal bestraft worden volgens lid 3. Eigenaren van externe Discords waarin metagaming plaatsvindt, zullen een straf ontvangen volgens de 9e categorie.
-4. Wanneer je met meerdere mensen die op Liberty Life spelen in een voicecall zit, is streamen niet toegestaan, en je moet gedeafened en gemute zijn. Als één persoon in-game is en de rest niet, en je besluit toch in een call te zitten zonder gedeafened/gemute te zijn, ben je in overtreding van deze regel, zoals aangeduid in lid 3.
-5. Het streamen van de main server in een Discord-server is nooit toegestaan, tenzij je expliciete toestemming hebt van een stafflid.
+2. Hij/zij die opzettelijk een bug en/of exploit misbruikt om voor zichzelf of anderen voordeel te behalen, of in-game functionaliteiten omzeilt, ongeacht de middelen, zal onmiddellijk worden gestraft volgens de 9e categorie.        
+
 <table border="1">
     <thead>
         <tr>
@@ -360,11 +358,15 @@
 ## Artikel 15 - Metagaming
 1. Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen FiveM) mag niet gebruikt worden door het karakter. Bij overtreding zal gestraft worden volgens de 3e categorie.**
 2. Informatie die buiten het karakter is verkregen (alle informatie die niet door jouw karakter binnen FiveM is verkregen), mag niet worden gebruikt door het karakter. Bij overtreding van deze regel zal gestraft worden volgens de 6e categorie.
+3. Het is niet toegestaan om externe Discords te gebruiken voor roleplay-gerelateerde zaken zonder voorafgaande toestemming van het personeel, inclusief het gebruik van sheets en andere onderlinge zaken. Eigenaren van externe Discords waarin metagaming plaatsvindt, zullen een straf ontvangen volgens de 7e categorie.
+4. Wanneer je met meerdere mensen die op Liberty Life spelen in een voicecall zit, is streamen niet toegestaan, en je moet gedeafened en gemute zijn. Als één persoon in-game is en de rest niet, en je besluit toch in een call te zitten zonder gedeafened/gemute te zijn, ben je in overtreding van deze regel, zoals aangeduid in lid 3.
+5. Het streamen van de main server in een Discord-server is nooit toegestaan, tenzij je expliciete toestemming hebt van een stafflid.
+
 <table border="1">
     <thead>
         <tr>
             <th>Straf:</th>
-            <th><b>Categorie 6: Een ban van maximaal 1 week</b></th>
+            <th><b>Categorie 7: Een ban van maximaal 1 maand</b></th>
         </tr>
     </thead>
 </table>
@@ -439,7 +441,7 @@ Het niet meewerken wordt beschouwd als het niet waarderen van je eigen leven, om
 </table>
 
 ## Artikel 20 - FailRP
-FailRPhoudt in: het bewust verstoren of niet realistisch meddoen aan een scenario, of het weigeren om op een passende manier mee te werken aan een situatie.
+FailRP houdt in: het bewust verstoren of niet realistisch meddoen aan een scenario, of het weigeren om op een passende manier mee te werken aan een situatie.
 
 <b>Paar voorbeelden hiervan zijn:</b>
 
