@@ -107,6 +107,8 @@
     - Het overgeven van je spullen aan een andere speler.
 
     - Het zonder enige reden ergens op de grond droppen van je spullen.
+    
+12. Het is niet toegestaan om een gehostagde persoon mee te nemen naar het politiebureau. De politie mag in dit geval direct op je schieten. (**Catogorie 1**)
 
 <table border="1">
     <thead>
