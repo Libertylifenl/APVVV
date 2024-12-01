@@ -100,6 +100,14 @@
     - Een politieagent ontvoeren met als doel een signalering te verwijderen of toegang te krijgen tot het politiesysteem (MEOS).
     - Medewerkers van de overheidsdiensten dwingen om een (bewusteloos) persoon te fouilleren, items (zoals wapens) af te nemen en deze aan jou of iemand anders af te geven.
 
+11. Het is verboden om binnen 10 minuten na het gebruik van illegale items (zoals wapens) je spullen te stashen. Dit geldt ook voor:    (**Catogorie 1**)
+
+    - Het opslaan in je appartement of voertuig.
+
+    - Het overgeven van je spullen aan een andere speler.
+
+    - Het zonder enige reden ergens op de grond droppen van je spullen.
+
 <table border="1">
     <thead>
         <tr>
