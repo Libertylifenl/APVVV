@@ -589,4 +589,4 @@ Het is ten strengste verboden om in-game items, geld, voertuigen, of wapens te v
 24. Het is verboden om iemand te dwingen zijn stashplekken te openen en vervolgens zijn eigendommen te stelen. (Exclusief auto's)
 25. Wanneer je in een achtervolging zit, is het niet toegestaan om opzettelijk het water in te rijden.
 26. Wanneer je betrokken bent bij een achtervolging, is het niet toegestaan om over te stappen naar een donatievoertuig.
-27. Combat-stashen is ten strengte verboden (Algemene plaatstelijke verordering. (straffen; **Catorogie 1** ))
+27. Combat-stashen is ten strengte verboden (Algemene Plaatselijke Verordening Liberty Life.(straffen; **Catorogie 1** ))
